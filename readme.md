@@ -10,6 +10,25 @@
 
 =>
 
+		Nombre de participants :
+
+		- 8 personnes minimum
+		- 20 personnes maximum
+
+=>
+
+		Présentation formation :
+		Nous sommes 23 élèves de l'école du numérique alias la Fabrik mis en place par Face Bourbonnais .
+		Notre formation dure 8 mois dont 2 mois de stage durant lesquels nous allons apprendre différents 
+		languages informatiques afin de réaliser des sites internets.
+		Nous sommes donc ici pour vous présenter une procédure que nous avons nous même appris
+		pour mieux mettre en place un projet quelconque.
+		Elles vous permettront d'apprendre le sens du partage de la collaboration mais aussi un savoir 
+		être et des valeurs humaines indsipensables dans le monde de l'entreprise mais aussi pour 
+		votre propre expérience.
+
+=>
+
  		Besoins matériels pour la formation legoForscrum :
 
  		- Des post-it
@@ -17,17 +36,6 @@
  		- Un paperboard
  		- Des tables et des chaises 
  		- Des legos
-
-=>
-
- 		Que compte on apporter aux participants :
-
- 		- Échange , cohésion , partage , collaboration
- 		- Une méthode , une technique
- 		- Acceptation de changements 
- 		- Travail d'équipe 
- 		- Un savoir être 
- 		- Des principes moraux 
 
 =>
 
@@ -59,8 +67,8 @@
 		Le déroulement : 
 
 		Le jeu sera divisé en plusieurs parties 
-		1) cahier des charges donnés aux scrums
-		2)établissement des backolgs
-		3)partie de constrcution divisé en sprint de 7 minutes avec rendu obligatoire
-		du scrum au client . Ajout possible de nouveaux élèments de la part du client 
+		1) Cahier des charges donnés aux scrums
+		2) Etablissement des backolgs
+		3) Partie de construction divisé en sprint de 7 minutes avec rendu obligatoire
+		du scrum au client. Ajout possible de nouveaux élèments de la part du client 
 
