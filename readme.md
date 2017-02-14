@@ -26,7 +26,7 @@
 		- Permet le pilotage et la réalisation de projet tout en octroyant une grande réactivité par 
 		rapport aux demandes du client .
 		- Établir un tableau pour l'organisation du jeu avec 5 colonnes => 
-		- Backlog (cahier des charges)
+		- Backlog (à partir du cahier des charges)
 		- To Do (ce qu'on à faire)
 		- Wip (choses sur lesqueslles on travaille)
 		- Testing (phase de test du projetr pour voir si il plait au client)
