@@ -1,5 +1,15 @@
  ##LEGO FOR SCRUM
 
+ 		Description:
+ 		Le but de notre atelier est d'enseigner les méthodes agiles à un public varié afin d'être 
+ 		capable de gérer un travail de groupe que ce soit en entreprise ou à des fins personnelles. 
+ 		Ce descriptif a pour objectif de guider un formateur lambda sur le pilotage d'un atelier 
+ 		grâce à un procédé d'organisation à travers un jeu ludique que sont les lego. 
+ 		L'atelier peut intéresser tout les âges car il est accessible et
+ 		si facile de retomber en enfance avec un jeu qui a bercé notre jeunesse .
+
+=>
+
  		Besoins matériels pour la formation legoForscrum :
 
  		- Des post-it
