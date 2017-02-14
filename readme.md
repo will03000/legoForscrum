@@ -26,6 +26,21 @@
 		Elles vous permettront d'apprendre le sens du partage de la collaboration mais aussi un savoir 
 		être et des valeurs humaines indsipensables dans le monde de l'entreprise mais aussi pour 
 		votre propre expérience.
+		Cette façon de travail vous permet d'avoir une vue d'ensemble sur la progression du projet, 
+		une flexibilité avec les échanges entre clients et collaborateurs et 
+		une facilité de compréhension et modification.
+
+=>
+
+		Plan : 
+    	Commencer par les présentations
+    	Expliquez pourquoi la méthode agile est efficace
+    	Description des outils que nous allons utiliser
+    	Mise place des groupes et es plan de travail (feuille feutre lego)
+    	Explication du tableau et exemple que nous allons utilisé (et pourquoi)
+    	Mise en place d'un scrum dans chaque equipe
+    	Mise en place du cahier des charges
+    	Réalisation des backlogs dans chaque equipe suite à des échanges
 
 =>
 
