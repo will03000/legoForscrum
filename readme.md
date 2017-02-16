@@ -86,8 +86,28 @@
 		- To Do (ce qu'on à faire)
 		- Wip (choses sur lesqueslles on travaille)
 		- Done (élèments finis et approuvés par le client)
-
+		- Le rôle du Scrum Master :
 ![alt tag](img/schema.jpg)
+
+
+        Le Scrum Master est une déclinaison de chef de projet, ce terme vient
+        du rugby du poste de demi mêlée.
+        Ses responsabilitées sont d'aider l'équipe à travailler de façon autonome et à s'améliorer 
+        constamment. 
+        Il est garant du processus.Ses tâches sont d'organiser des réunions et animer le processus 
+        d'un projet. 
+        Il doit eliminer les obstacles qui surviennent rapidement tout en évitant le ralentisement 
+        de l'équipe (protège l'equipe des interférences). Il fait en sorte que l'équipe reste concentrée 
+        sur l'objectif, il réalise les élèments du Backlog avec l'équipe en collaboration étroite avec 
+        le client. 
+        Il met à jour régulièrement le tableau agile et créer des rapports du travail effectué.
+		Points clés :
+		Ce n'est pas un chef de projet : il ne dirige pas, il n'impose pas, il ne contraint pas.
+		Il fait parti de l'équipe : il s'engage avec les autres.
+		Il doit régulièrement rencontrer -physiquement- les autres membres de l'équipe, il ne reste pas 
+		dans son bureau.
+
+![alt tag](img/scrum.png)
 
 =>
 
@@ -137,4 +157,6 @@
 			Bien détailler chaque étape de la construction d'un bâtiment
 		4) Partie de construction divisé en sprint de 7 minutes avec rendu obligatoire
 		    du scrum au client. Ajout possible de nouveaux élèments de la part du client 
+		    Un sprint est rassemblement de personnes impliquées dans un projet afin de se concentrer 
+		    sur le développement de ce projet. Le temps des sprints seront determinées selon les projets.
 
