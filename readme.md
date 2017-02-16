@@ -82,6 +82,9 @@
 		- Permet le pilotage et la réalisation de projet tout en octroyant une grande réactivité par 
 		  rapport aux demandes du client .
 		- Établir un tableau pour l'organisation du jeu avec 4 colonnes => 
+
+![alt tag](img/tab.png)
+
 		- Backlog (à partir du cahier des charges)
 		- To Do (ce qu'on à faire)
 		- Wip (choses sur lesqueslles on travaille)
