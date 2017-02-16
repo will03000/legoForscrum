@@ -1,5 +1,9 @@
  ##LEGO FOR SCRUM
 
+![alt tag](img/lego.png)
+
+
+
  		Description:
  		Le but de notre atelier est d'enseigner les méthodes agiles à un public varié afin d'être 
  		capable de gérer un travail de groupe que ce soit en entreprise ou à des fins personnelles. 
