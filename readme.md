@@ -31,6 +31,28 @@
 		une facilité de compréhension et modification.
 
 =>
+		
+		Projet :
+
+		Construire une ville à l'aide des lego pour un groupe et pour un autre groupe un parc 
+		d'attraction.
+		Le but étant que les deux projets puissent se réunir et former un ensemble harmonieux.
+		Les groupes seront formés de minimum 3 personnes , dans ce groupe une personne sera scrum
+		master c'est à dire chef de projet . Il devra diriger l'équipe et donner des instructions 
+		simples afin d'organiser les tâches du groupe . Le projet étant à la base donné par les 
+		formateurs et inscrit dans les backlogs .
+
+=>
+
+		Besoins matériels pour la formation legoForscrum :
+
+ 		- Des post-it
+ 		- Des stylos
+ 		- Un paperboard
+ 		- Des tables et des chaises 
+ 		- Des legos
+
+=>
 
 		Plan : 
     	Commencer par les présentations
@@ -42,16 +64,11 @@
     	Mise en place d'un scrum dans chaque equipe
     	Mise en place du cahier des charges
     	Réalisation des backlogs dans chaque equipe suite à des échanges
+    	Placement de post it dans les colonnes correspondantes
+    	Explication du sprint
+    	Entretien avec le client 
+    	Finalisation des projets et merge des 2 constructions (parc et ville)
 
-=>
-
- 		Besoins matériels pour la formation legoForscrum :
-
- 		- Des post-it
- 		- Des stylos
- 		- Un paperboard
- 		- Des tables et des chaises 
- 		- Des legos
 
 =>
 
@@ -68,17 +85,7 @@
 
 =>
 
-		Projet :
-
-		Construire une ville à l'aide des lego pour un groupe et pour un autre groupe un parc 
-		d'attraction.
-		Le but étant que les deux projets puissent se réunir et former un ensemble harmonieux.
-		Les groupes seront formés de minimum 3 personnes , dans ce groupe une personne sera scrum
-		master c'est à dire chef de projet . Il devra diriger l'équipe et donner des instructions 
-		simples afin d'organiser les tâches du groupe . Le projet étant à la base donné par les 
-		formateurs et inscrit dans les backlogs .
-
-=>
+		
 
 		Le déroulement : 
 
