@@ -36,6 +36,7 @@
     	Commencer par les présentations
     	Expliquez pourquoi la méthode agile est efficace
     	Description des outils que nous allons utiliser
+    	Pourquoi les lego ?
     	Mise place des groupes et es plan de travail (feuille feutre lego)
     	Explication du tableau et exemple que nous allons utilisé (et pourquoi)
     	Mise en place d'un scrum dans chaque equipe
