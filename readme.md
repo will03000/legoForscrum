@@ -87,6 +87,8 @@
 		- Wip (choses sur lesqueslles on travaille)
 		- Done (élèments finis et approuvés par le client)
 
+![alt tag](img/schema.jpg)
+
 =>
 
 		
