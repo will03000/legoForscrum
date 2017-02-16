@@ -89,10 +89,10 @@
 		- To Do (ce qu'on à faire)
 		- Wip (choses sur lesqueslles on travaille)
 		- Done (élèments finis et approuvés par le client)
-		- Le rôle du Scrum Master :
+		
 ![alt tag](img/schema.jpg)
 
-
+		Le rôle du Scrum Master :
         Le Scrum Master est une déclinaison de chef de projet, ce terme vient
         du rugby du poste de demi mêlée.
         Ses responsabilitées sont d'aider l'équipe à travailler de façon autonome et à s'améliorer 
