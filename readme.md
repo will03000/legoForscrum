@@ -90,8 +90,45 @@
 		Le déroulement : 
 
 		Le jeu sera divisé en plusieurs parties 
-		1) Cahier des charges donnés aux scrums
-		2) Etablissement des backolgs
-		3) Partie de construction divisé en sprint de 7 minutes avec rendu obligatoire
+		1) Création des équipes et désignation d'un scrum (décrire rôle scrum)
+		2) Cahier des charges donnés aux scrums : 
+		   Parc d'attraction:
+
+			Le client demandera en terrain(dessin) des rails qui traverseront le parc 
+			afin de se déplacer plus rapidement.
+			Il pourra également si le groupe a oublié, ajouter un wagon/train.
+
+			En batiment le client demandera par exemple: 
+											 - Parc Aquatique
+                                             - Un restaurant
+                                             - Un manege.
+                                             - ...........
+
+			Il demandera également des contraintes:         
+											 - Entré avec guichet
+                                             - Un Motel
+                                             - Un Parking
+                                             - ...........
+    
+		   Ville:
+
+			Le client demandera en terrain(dessin) une rivière qui coupera la ville en deux.
+			Pourquoi pas rajouter des petits bateaux, le client laissera place à son imagination.
+
+			En batiment le client demandera pas exemple: 
+											 - Stade de foot
+                                             - Ecole
+                                             - Mairie
+                                             - ..........
+
+			Il demandera également des contraintes:      
+											 - Des tribunes pour le stade
+                                             - Des panneaux de signialisation, 
+                                             - feux, stop, etc..
+                                             - ..................
+		3) Etablissement des backolgs =>
+			Expliquer utilisation des post-it selon méthode agile
+			Bien détailler chaque étape de la construction d'un bâtiment
+		4) Partie de construction divisé en sprint de 7 minutes avec rendu obligatoire
 		du scrum au client. Ajout possible de nouveaux élèments de la part du client 
 
