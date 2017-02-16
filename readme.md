@@ -24,8 +24,8 @@
 		Présentation formation :
 
 		Nous sommes 23 élèves de l'école du numérique alias la Fabrik mis en place par Face Bourbonnais.
-		Notre formation dure 8 mois dont 2 mois de stage durant lesquels nous allons apprendre différents 
-		languages informatiques afin de réaliser des sites internets.
+		Notre formation dure 8 mois dont 2 mois de stage durant lesquels nous allons apprendre 
+		différents languages informatiques afin de réaliser des sites internets.
 		Nous sommes donc ici pour vous présenter une procédure que nous avons nous même appris
 		pour mieux mettre en place un projet quelconque.
 		Elles vous permettront d'apprendre le sens du partage de la collaboration mais aussi un savoir 
