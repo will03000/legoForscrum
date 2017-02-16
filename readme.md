@@ -86,6 +86,15 @@
 ![alt tag](img/tab.png)
 
 		- Backlog (à partir du cahier des charges)
+		  Un backlog est une liste de fonctionnalités ou de tâches nécéssaire pour 
+		  la réalisation d'un projet.
+		  Si une tâche contenue dans le backlog ne contribue pas aux objectifs du projet,
+		  il faut l'en retirer;
+		  A contrario, dès qu'on a connaissance d'une tâche qu'on pense nécessaire pour le projet, 
+		  on doit l'inclure dans le backlog
+
+![alt tag](img/backlog.png)
+
 		- To Do (ce qu'on à faire)
 		- Wip (choses sur lesqueslles on travaille)
 		- Done (élèments finis et approuvés par le client)
