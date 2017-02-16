@@ -117,7 +117,7 @@
 
 		Le jeu sera divisé en plusieurs parties 
 		1) Création des équipes et désignation d'un scrum (décrire rôle scrum)
-		2) Cahier des charges donnés aux scrums : 
+		2) Cahier des charges dicté aux scrums : (3 bâtiments max donné au premier sprint)
 		   Parc d'attraction:
 
 			Le client demandera en terrain(dessin) des rails qui traverseront le parc 
