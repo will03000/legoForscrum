@@ -1,4 +1,4 @@
- ##LEGO FOR SCRUM
+##LEGO FOR SCRUM
 
 ![alt tag](img/lego.png)
 
