@@ -17,7 +17,7 @@
 
 		Nombre de participants :
 		- 2 groupes de 4 personnes minimum
-		- 20 personnes maximum
+		- 20 personnes maximum (de 8 à 70 ans)
 
 =>
 
@@ -56,6 +56,7 @@
  		- Un paperboard
  		- Des tables et des chaises 
  		- Des legos
+ 		- Feuille pour noter demandes clients
 
 =>
 
@@ -85,7 +86,7 @@
 
 ![alt tag](img/tab.png)
 
-		- Backlog (à partir du cahier des charges)
+		- Backlog (à partir du cahier des charges , près de la zone de construction)
 		  Un backlog est une liste de fonctionnalités ou de tâches nécéssaire pour 
 		  la réalisation d'un projet.
 		  Si une tâche contenue dans le backlog ne contribue pas aux objectifs du projet,
@@ -167,8 +168,11 @@
 		3) Etablissement des backolgs =>
 			Expliquer utilisation des post-it selon méthode agile
 			Bien détailler chaque étape de la construction d'un bâtiment
+			Expliquer aux participants que durant chaque sprint tout les backlog doivent être initié.
 		4) Partie de construction divisé en sprint de 7 minutes avec rendu obligatoire
 		    du scrum au client. Ajout possible de nouveaux élèments de la part du client 
 		    Un sprint est rassemblement de personnes impliquées dans un projet afin de se concentrer 
 		    sur le développement de ce projet. Le temps des sprints seront determinées selon les projets.
+		5) Pendant les sprint l'équipe est libre de de déplacer ses post-it dans wip. Bien accompagner
+		    les participants durant les sprint , les aiguiller sur les construction. 
 
