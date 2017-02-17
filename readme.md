@@ -18,6 +18,8 @@
 		Nombre de participants :
 		- 2 groupes de 4 personnes minimum
 		- 20 personnes maximum (de 8 à 70 ans)
+		Durée atelier :
+		- 1h à 1h30
 
 =>
 
